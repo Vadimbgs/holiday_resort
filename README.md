@@ -1,4 +1,4 @@
-# design
+# holiday_resort
 
 https://www.youtube.com/@FreelancerLifeStyle - Фрилансер по жизни
 
