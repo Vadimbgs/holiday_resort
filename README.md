@@ -12,3 +12,5 @@ https://www.figma.com/design/YTbEwZR65OKEYKwsE5gVe5/HolidayResort?node-id=0-1&p=
 Скачать росшырения в Visual Studio Code:
 
 Google Fonts
+
+CSS Responsive
