@@ -16,3 +16,5 @@ https://www.figma.com/design/YTbEwZR65OKEYKwsE5gVe5/HolidayResort?node-id=0-1&p=
 Google Fonts
 
 CSS Responsive
+
+По возможности поменять тему в Visual Studio Code на Space Ocean Kit Refined
