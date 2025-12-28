@@ -1,6 +1,4 @@
-# design
-
-https://www.youtube.com/@FreelancerLifeStyle - Фрилансер по жизни
+# holiday_resort
 
 https://www.youtube.com/live/Cr4e4Zcllp8?si=niR_8-yD6WTU-YSB - Адаптивна верстка для початківців. З нуля і до завершення. Пояснення дій. HTML CSS FIGMA
 
